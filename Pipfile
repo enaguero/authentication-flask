@@ -16,6 +16,9 @@ python-dotenv = "*"
 mysql-connector-python = "*"
 flask-cors = "*"
 gunicorn = "*"
+passlib = "*"
+itsdangerous = "*"
+flask-httpauth = "*"
 
 [requires]
 python_version = "3.6"
